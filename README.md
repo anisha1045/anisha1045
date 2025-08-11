@@ -3,9 +3,9 @@
 🎓 **Computer Science student @ UT Austin** passionate about using software engineering to solve problems.  
 💡 I love tackling problems that blend **logic, math, and CS**. I’m less about the flashy frontends, more about building smart, functional systems.  
 
-Outside of tech, I’m all about reading 📖, eating desserts 🍫, and making an impact in my community through service and leadership 🤝.  
+Outside of tech, I’m all about reading 📖, eating desserts 🍫, and making an impact in my community through service and leadership 🤝. 
 
-**Currently open to internships and research opportunities** in software engineering, data science, or related fields.**
+**Currently open to internships and research opportunities in software engineering, data science, or related fields.**
 ---
 
 ## 🖥️ About Me
