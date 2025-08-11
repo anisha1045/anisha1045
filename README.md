@@ -5,9 +5,8 @@
 
 Outside of tech, I’m all about reading 📖, eating desserts 🍫, and making an impact in my community through service and leadership 🤝. 
 
-**Currently open to internships.**
+**Currently open to internships and research opportunities in software development, data science, or related fields.**
 
-**Currently open to internships and research opportunities in software engineering, data science, or related fields.**
 ---
 
 ## 💻 Languages
