@@ -5,14 +5,9 @@
 
 Outside of tech, I’m all about reading 📖, eating desserts 🍫, and making an impact in my community through service and leadership 🤝. 
 
+**Currently open to internships.**
+
 **Currently open to internships and research opportunities in software engineering, data science, or related fields.**
----
-
-## 🖥️ About Me
-- 🎯 Interested in **data science**, **cryptography**, and **artificial intelligence**  
-- 📚 Experience with **machine learning projects** (e.g., Gmail email prioritization filter, syllabus-to-calendar automation)  
-- 🛠 Skilled in **problem-solving**, **data structures**, and **algorithms**  
-
 ---
 
 ## 💻 Languages
