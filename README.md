@@ -46,9 +46,3 @@ Outside of tech, I’m all about reading 📖, eating desserts 🍫, and making 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/anisha-b-22617328b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:anishabhaskartorres@gmail.com)
-
----
-
-## 📊 GitHub Stats
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
